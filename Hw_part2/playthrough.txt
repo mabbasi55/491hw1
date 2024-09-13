@@ -1,4 +1,4 @@
-Commands to reach the win state of the game: 
+-----------------Enter these commands to win-----------------
 go south
 go south
 go east
