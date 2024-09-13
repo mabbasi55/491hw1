@@ -1,0 +1,18 @@
+Commands to reach the win state of the game: 
+go south
+go south
+go east
+go east 
+get door key
+get fuel can 
+go west 
+go west
+go west
+unlock door 
+go west
+get car key
+go east 
+go east
+enter fuel
+enter key
+start car 

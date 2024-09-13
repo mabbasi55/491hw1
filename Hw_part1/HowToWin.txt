@@ -1,0 +1,38 @@
+Enter these commands to win. 
+take pole
+go out
+go south
+catch fish with pole
+go north, pick rose
+smell rose
+go north
+go up
+get branch
+go down
+go east
+give the troll the fish
+go east
+hit guard with branch
+get key
+go east
+get candle
+go west
+go down
+light lamp 
+go down
+light candle
+read runes
+get crown
+go up 
+go up
+go up
+unlock door
+go up
+give rose to the princess
+propose marriage to the princess
+wear crown
+go down
+go down 
+go east 
+go east 
+sit on throne
