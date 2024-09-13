@@ -1,9 +1,11 @@
-Enter these commands to win. 
+-----------------Enter these commands to win-----------------
+
 take pole
 go out
 go south
 catch fish with pole
-go north, pick rose
+go north
+pick rose
 smell rose
 go north
 go up
